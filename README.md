@@ -1,8 +1,9 @@
 # Awesome MARL: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-There has been substantial growth in the field of Multi-Agent Reinforcemnt Learning (MARL) in recent years. MARL covers a wide variety of problem fields with are constantly in state of flux.
+There has been substantial growth in the field of Multi-Agent Reinforcemnt Learning (MARL) in recent years. MARL covers a wide variety of problem fields which are constantly in a state of flux.
 
-This is a collection of review papers for MARL and evaluation methods for RL in general. We sort papers by publication date and survey subtopic. Any additions to this repo are welcome
+This is a collection of review papers for MARL and evaluation methods for RL in general. We sort papers by publication date and survey subtopic. Any additions to this repo are welcome. Although our current focus is more on evaluation, this repository aims to include all relevant subtopics related to MARL.
+
 ## Overview
 * [Survey Papers](https://github.com/siddarthsingh1/MARL-literature)
 * [Research Papers](https://github.com/siddarthsingh1/MARL-literature)
