@@ -7,6 +7,8 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 ## Overview
 * [Survey Papers](https://github.com/siddarthsingh1/MARL-literature)
 * [Research Papers](https://github.com/siddarthsingh1/MARL-literature)
+  * [Value Factorisation](https://github.com/siddarthsingh1/MARL-literature#value-factorisation)
+  * [Communication](https://github.com/siddarthsingh1/MARL-literature#communication) 
   * [Evaluation for RL](https://github.com/siddarthsingh1/MARL-literature#evaluation-RL)
   * [Evaluation for MARL](https://github.com/siddarthsingh1/MARL-literature#evaluation-MARL)
   * [Implementation](https://github.com/siddarthsingh1/MARL-literature#implementation)
@@ -21,6 +23,23 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Multiagent Learning: Basics, Challenges, and Prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Karl Tuyls, Gerhard Weiss. arXiv 2019.
 
 ## Research Papers
+
+### Value Factorisation
+* [VAST: Value Function Factorization with Variable Agent Sub-Teams](https://openreview.net/pdf?id=hyJKKIhfxxT) by Thomy Phan, Fabian Ritz, Lenz Belzner, Philipp Altmann, Thomas Gabor, Claudia Linnhoff-Popien. openreview 2021.
+* [Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/2002.03939.pdf) by Yaodong Yang, Jianye Hao, Ben Liao, Kun Shao, Guangyong Chen, Wulong Liu, Hongyao Tang. arXiv 2020.
+* [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1803.11485.pdf) by Tabish Rashid, Mikayel Samvelyan, Christian Schroeder de Witt, Gregory Farquhar, Jakob Foerster, Shimon Whiteson. arXiv 2018.
+* [Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296.pdf) by Peter Sunehag, Guy Lever, Audrunas Gruslys, Wojciech Marian Czarnecki, Vinicius Zambaldi, Max Jaderberg, Marc Lanctot, Nicolas Sonnerat, Joel Z. Leibo, Karl Tuyls, Thore Graepel. arXiv 2017.
+* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf) by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch. arXiv 2017.
+* [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/pdf/1705.08926.pdf) by Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. arXiv 2017. 
+
+### Communication
+* [Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf) by Yaru Niu, Rohan Paleja and Matthew Gombolay. ifaamas 2021.
+* [Emergent Communication through Negotiation](https://arxiv.org/pdf/1804.03980) by Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark. arXiv 2018.
+* [Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input](https://arxiv.org/pdf/1804.03984) by Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, Stephen Clark. arXiv 2018.
+* [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/pdf/1810.11187.pdf)by Abhishek Das, Théophile Gervet, Joshua Romoff, Dhruv Batra, Devi Parikh, Michael Rabbat, Joelle Pineau. arXiv 2018.
+* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/pdf/1705.11192) by Serhii Havrylov, Ivan Titov. arXiv 2017.
+* [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1605.06676.pdf) by Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson. arXiv 2016.
+* [Learning Multiagent Communication with Backpropagation](https://arxiv.org/pdf/1605.07736.pdf) by Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus. arXiv 2016.
 
 ### Evaluation for RL
 * [Protecting Against Evaluation Overfitting in Empirical Reinforcement Learning](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ADPRL11-shimon.pdf) by Shimon Whiteson, Brian Tanner, Matthew E. Taylor, and Peter Stone. arXiv 2011.
