@@ -48,6 +48,8 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [A Hitchhiker’s Guide to Statistical Comparisons of Reinforcement Learning Algorithms](https://arxiv.org/pdf/1904.06979.pdf) by Cédric Colas, Olivier Sigaud and Pierre-Yves Oudeyer. arXiv 2019.
 * [Evaluating the Performance of Reinforcement Learning Algorithms](https://arxiv.org/pdf/2006.16958.pdf) by Scott M. Jordan, Yash Chandak, Daniel Cohen, Mengxue Zhang, Philip S. Thomas. ICML 2020.
 * [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/pdf/2108.13264.pdf) by Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville and  Marc G. Bellemare. NeurIPS 2021.
+* [MEASURING THE RELIABILITY OF REINFORCEMENT LEARNING ALGORITHMS](https://arxiv.org/pdf/1912.05663.pdf) by Stephanie C.Y. Chan, Samuel Fishman, John Canny, Anoop Korattikara, and Sergio Guadarrama. ICRL 2020.
+
 
 
 ### Evaluation for MARL
@@ -73,3 +75,4 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 ### Benchmarks
 * [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568.pdf) by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver and Hado Van Hasselt. arXiv 2020.
 * [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043) by Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson. arXiv 2019.
+* [Comparative Evaluation of Cooperative Multi-Agent Deep Reinforcement Learning Algorithms](https://ala2021.vub.ac.be/papers/ALA2021_paper_44.pdf) by Georgios Papoudakis, Filippos Christianos, Lukas Schäfer, Stefano V. Albrecht. ALA 2021.
