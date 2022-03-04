@@ -25,6 +25,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Multi-Agent Reinforcement Learning: A Review of Challenges and Applications](https://www.mdpi.com/2076-3417/11/11/4948) by Lorenzo Canese, Gian C. Cardarilli, Luca Di Nunzio, Rocco Fazzolari, Daniele Giardino, Marco Re, and Sergio Spanò. MDPI 2021.
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635) by Kaiqing Zhang, Zhuoran Yang and Tamer Başar. arXiv 2019.
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid and Davood Hajinezhad. arXiv 2019.
+* [An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective](https://arxiv.org/abs/2011.00583) by Yaodong Yang and Jun Wang. arXiv 2020.
 
 ## Research Papers
 
