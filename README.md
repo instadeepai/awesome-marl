@@ -26,6 +26,11 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635) by Kaiqing Zhang, Zhuoran Yang and Tamer Başar. arXiv 2019.
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid and Davood Hajinezhad. arXiv 2019.
 * [An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective](https://arxiv.org/abs/2011.00583) by Yaodong Yang and Jun Wang. arXiv 2020.
+### OLDER WORKS
+* [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](https://www.masfoundations.org/download.html) by Yoav Shoham and Kevin Leyton-Brown. Cambridge University Press 2009.
+* [Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence](https://ieeexplore.ieee.org/book/6267355) by Gerhard Weiss. MIT Press 2000.
+* [An Introduction to MultiAgent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/IMAS2e.html) by M. Wooldridge. John Wiley & Sons 2009.
+* [If multi-agent learning is the answer, what is the question?](https://www.sciencedirect.com/science/article/pii/S0004370207000495) by Yoav Shoham, Rob Powers  and Trond Grenager. Elsevier 2007.
 
 ## Research Papers
 
