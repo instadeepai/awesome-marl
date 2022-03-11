@@ -20,17 +20,29 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Multi‑agent deep reinforcement learning: a survey](https://link.springer.com/content/pdf/10.1007/s10462-021-09996-w.pdf) by Sven Gronauer and Klaus Diepold. Artifcial Intelligence Review 2021.
 * [Multiagent Deep Reinforcement Learning: Challenges and Directions Towards Human-Like Approaches](https://www.researchgate.net/publication/353060371_Multiagent_Deep_Reinforcement_Learning_Challenges_and_Directions_Towards_Human-Like_Approaches) by Annie Wong, Thomas Bäck, Anna V. Kononova and Aske Plaat. arXiv 2021.
 * [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/pdf/1812.11794.pdf) by Thanh Thi Nguyen, Ngoc Duy Nguyen, and Saeid Nahavandi. arXiv 2019.
-* [Multiagent Learning: Basics, Challenges, and Prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Karl Tuyls, Gerhard Weiss. arXiv 2019.
 * [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal, Bilal Kartal and Matthew E. Taylor. arXiv 2018.
 * [Multi-Agent Reinforcement Learning: A Review of Challenges and Applications](https://www.mdpi.com/2076-3417/11/11/4948) by Lorenzo Canese, Gian C. Cardarilli, Luca Di Nunzio, Rocco Fazzolari, Daniele Giardino, Marco Re, and Sergio Spanò. MDPI 2021.
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635) by Kaiqing Zhang, Zhuoran Yang and Tamer Başar. arXiv 2019.
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid and Davood Hajinezhad. arXiv 2019.
 * [An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective](https://arxiv.org/abs/2011.00583) by Yaodong Yang and Jun Wang. arXiv 2020.
+* [Evolutionary dynamics of multi-agent learning: A survey](https://jair.org/index.php/jair/article/view/10952) by Daan Bloembergen, Karl Tuyls, Daniel Hennes and Michael Kaisers. Journal of Artificial Intelligence Research 2015.
+* [A survey of learning in multiagent environments: Dealing with non-stationarity](https://arxiv.org/abs/1707.09183) by Pablo Hernandez-Leal, Michael Kaisers, Tim Baarslag and Enrique Munoz de Cote. arXiv 2017.
+* [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Felipe Leno Da Silva and Anna Helena Reali Costa. Journal of Artificial Intelligence Research 2019.
+
+
 ### OLDER WORKS
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](https://www.masfoundations.org/download.html) by Yoav Shoham and Kevin Leyton-Brown. Cambridge University Press 2009.
 * [Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence](https://ieeexplore.ieee.org/book/6267355) by Gerhard Weiss. MIT Press 2000.
-* [An Introduction to MultiAgent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/IMAS2e.html) by M. Wooldridge. John Wiley & Sons 2009.
+* [An Introduction to MultiAgent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/IMAS2e.html) by Michael Wooldridge. John Wiley & Sons 2009.
 * [If multi-agent learning is the answer, what is the question?](https://www.sciencedirect.com/science/article/pii/S0004370207000495) by Yoav Shoham, Rob Powers  and Trond Grenager. Elsevier 2007.
+* [Multiagent learning is not the answer. It is the question](https://www.sciencedirect.com/science/article/pii/S0004370207000021) by Peter Stone. Elsevier 2007.
+* [Multiagent Learning: Basics, Challenges, and Prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Karl Tuyls and Gerhard Weiss. Ai Magazine 2012.
+* [Cooperative Multi-Agent Learning: The State of the Art](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.307.6671) by  Liviu Panait and Sean Luke. JAAMAS 2005.
+* [Independent reinforcement learners in cooperative markov games: a survey regarding coordination problems](https://perso.liris.cnrs.fr/laetitia.matignon/index/matignon2012KER.pdf) by Laetitia Matignon, Guillaume J. Laurent and Nadine Le Fort-Piat. Cambridge University Press 20112.
+* [An overview of cooperative and competitive multiagent learning](https://cs.gmu.edu/~sean/papers/LAMAS05Overview.pdf) by Pieter Jan 't Hoen, Karl Tuyls, Liviu Panait, Sean Luke and J. A. La Poutré. AAMAS 2005.
+* [Multi-agent reinforcement learning:An overview](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Lucian Buşoniu, Robert Babuška and Bart De Schutte. Springer 2010.
+* [Evolutionary game theory and multi-agent reinforcement learning](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/evolutionary-game-theory-and-multiagent-reinforcement-learning/CB038537B4DB36E74311984BC13AD742) by Karl Tuyls and Ann Nowe. Cambridge University Press 2005.
+
 
 ## Research Papers
 
