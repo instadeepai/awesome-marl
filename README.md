@@ -30,7 +30,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Felipe Leno Da Silva and Anna Helena Reali Costa. Journal of Artificial Intelligence Research 2019.
 
 
-### OLDER WORKS
+### Older surveys
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](https://www.masfoundations.org/download.html) by Yoav Shoham and Kevin Leyton-Brown. Cambridge University Press 2009.
 * [Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence](https://ieeexplore.ieee.org/book/6267355) by Gerhard Weiss. MIT Press 2000.
 * [An Introduction to MultiAgent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/IMAS2e.html) by Michael Wooldridge. John Wiley & Sons 2009.
