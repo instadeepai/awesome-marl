@@ -55,6 +55,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296.pdf) by Peter Sunehag, Guy Lever, Audrunas Gruslys, Wojciech Marian Czarnecki, Vinicius Zambaldi, Max Jaderberg, Marc Lanctot, Nicolas Sonnerat, Joel Z. Leibo, Karl Tuyls, Thore Graepel. arXiv 2017.
 * [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf) by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch. arXiv 2017.
 * [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/pdf/1705.08926.pdf) by Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. arXiv 2017. 
+* [Revisiting QMIX: Discriminative Credit Assignment by Gradient Entropy Regularization](https://arxiv.org/abs/2202.04427) by Jian Zhao, Yue Zhang, Xunhan Hu, Weixun Wang, Wengang Zhou, Jianye Hao, Jiangcheng Zhu and Houqiang Li. arXiv 2022.
 
 ### Communication
 * [Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf) by Yaru Niu, Rohan Paleja and Matthew Gombolay. ifaamas 2021.
@@ -64,6 +65,8 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/pdf/1705.11192) by Serhii Havrylov, Ivan Titov. arXiv 2017.
 * [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1605.06676.pdf) by Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson. arXiv 2016.
 * [Learning Multiagent Communication with Backpropagation](https://arxiv.org/pdf/1605.07736.pdf) by Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus. arXiv 2016.
+* [Disentangling Successor Features for Coordination in Multi-agent Reinforcement Learning](https://arxiv.org/abs/2202.07741) by Seung Hyun Kim, Neale Van Stralen, Girish Chowdhary and Huy T. Tran. arXiv 2022.
+* [Multi-Agent MDP Homomorphic Networks](https://arxiv.org/abs/2110.04495) by Elise van der Pol, Herke van Hoof, Frans A. Oliehoek and Max Welling. arXiv 2021.
 
 ### Evaluation for RL
 * [Protecting Against Evaluation Overfitting in Empirical Reinforcement Learning](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ADPRL11-shimon.pdf) by Shimon Whiteson, Brian Tanner, Matthew E. Taylor, and Peter Stone. arXiv 2011.
@@ -84,6 +87,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [IMPLEMENTATION MATTERS IN DEEP POLICY GRADIENTS: A CASE STUDY ON PPO AND TRPO](https://arxiv.org/pdf/2005.12729.pdf) by Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Firdaus Janoos, Larry Rudolph, and Aleksander Madry. ICLR 2020.
 * [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://arxiv.org/pdf/2103.01955.pdf) by Chao Yu,Akash Velu, Eugene Vinitsky, Yu Wang, Alexandre Bayen. arXiv 2021.
 * [RETHINKING THE IMPLEMENTATION TRICKS AND MONOTONICITY CONSTRAINT IN COOPERATIVE MULTI-AGENT REINFORCEMENT LEARNING](https://arxiv.org/pdf/2102.03479.pdf) by Jian Hu, Siyang Jiang, Seth Austin Harding, Haibin Wu and Shih-wei Liao. arXiv 2022.
+* [API: Boosting Multi-Agent Reinforcement Learning via Agent-Permutation-Invariant Networks](https://arxiv.org/abs/2203.05285) by Xiaotian Hao, Weixun Wang, Hangyu Mao, Yaodong Yang, Dong Li, Yan Zheng, Zhen Wang and Jianye Hao. arXiv 2022.
 
 ### Real-world challenges
 * [On Testing Machine Learning Programs](https://arxiv.org/pdf/1812.02257.pdf) by Houssem Ben Braieka, Foutse Khomh. Journal of Systems and Software 2018.
