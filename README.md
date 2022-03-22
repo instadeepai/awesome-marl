@@ -28,6 +28,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [Evolutionary dynamics of multi-agent learning: A survey](https://jair.org/index.php/jair/article/view/10952) by Daan Bloembergen, Karl Tuyls, Daniel Hennes and Michael Kaisers. Journal of Artificial Intelligence Research 2015.
 * [A survey of learning in multiagent environments: Dealing with non-stationarity](https://arxiv.org/abs/1707.09183) by Pablo Hernandez-Leal, Michael Kaisers, Tim Baarslag and Enrique Munoz de Cote. arXiv 2017.
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Felipe Leno Da Silva and Anna Helena Reali Costa. Journal of Artificial Intelligence Research 2019.
+* [A Survey of Multi-Agent Reinforcement Learning with Communication](https://arxiv.org/abs/2203.08975) by Changxi Zhu, Mehdi Dastani and Shihan Wang. arXiv 2022.
 
 
 ### Older surveys
