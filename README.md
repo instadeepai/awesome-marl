@@ -6,15 +6,16 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 
 ## Overview
 * [Survey Papers](https://github.com/instadeepai/awesome-marl/blob/main/README.md#survey-papers)
-* [Research Papers](https://github.com/siddarthsingh1/MARL-literature)
-  * [Value Factorisation](https://github.com/siddarthsingh1/MARL-literature#value-factorisation)
-  * [Communication](https://github.com/siddarthsingh1/MARL-literature#communication) 
-  * [Evaluation for RL](https://github.com/siddarthsingh1/MARL-literature#evaluation-RL)
-  * [Evaluation for MARL](https://github.com/siddarthsingh1/MARL-literature#evaluation-MARL)
-  * [Implementation](https://github.com/siddarthsingh1/MARL-literature#implementation)
-  * [Real-world challenges](https://github.com/siddarthsingh1/MARL-literature#real-world-challenges)
-  * [Frameworks](https://github.com/siddarthsingh1/MARL-literature#frameworks)
-  * [Benchmarks](https://github.com/siddarthsingh1/MARL-literature#benchmarks)
+  * [Older Surveys](https://github.com/instadeepai/awesome-marl/blob/main/README.md#older-surveys)
+* [Research Papers](https://github.com/instadeepai/awesome-marl/blob/main/README.md#research-papers)
+  * [Value Factorisation](https://github.com/instadeepai/awesome-marl/blob/main/README.md#value-factorisation)
+  * [Communication](https://github.com/instadeepai/awesome-marl/blob/main/README.md#communication) 
+  * [Evaluation for RL](https://github.com/instadeepai/awesome-marl/blob/main/README.md#evaluation-RL)
+  * [Evaluation for MARL](https://github.com/instadeepai/awesome-marl/blob/main/README.md#evaluation-MARL)
+  * [Implementation](https://github.com/instadeepai/awesome-marl/blob/main/README.md#implementation)
+  * [Real-world challenges](https://github.com/instadeepai/awesome-marl/blob/main/README.md#real-world-challenges)
+  * [Frameworks](https://github.com/instadeepai/awesome-marl/blob/main/README.md#frameworks)
+  * [Benchmarks](https://github.com/instadeepai/awesome-marl/blob/main/README.md#benchmarks)
  
 ## Survey Papers
 * [Multi‑agent deep reinforcement learning: a survey](https://link.springer.com/content/pdf/10.1007/s10462-021-09996-w.pdf) by Sven Gronauer and Klaus Diepold. Artifcial Intelligence Review 2021.
@@ -31,7 +32,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 * [A Survey of Multi-Agent Reinforcement Learning with Communication](https://arxiv.org/abs/2203.08975) by Changxi Zhu, Mehdi Dastani and Shihan Wang. arXiv 2022.
 
 
-### Older surveys
+### Older Surveys
 * [Multiagent Learning: Basics, Challenges, and Prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Karl Tuyls and Gerhard Weiss. Ai Magazine 2012.
 * [Independent reinforcement learners in cooperative markov games: a survey regarding coordination problems](https://perso.liris.cnrs.fr/laetitia.matignon/index/matignon2012KER.pdf) by Laetitia Matignon, Guillaume J. Laurent and Nadine Le Fort-Piat. Cambridge University Press 2012.
 * [Multi-agent reinforcement learning:An overview](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Lucian Buşoniu, Robert Babuška and Bart De Schutte. Springer 2010.
