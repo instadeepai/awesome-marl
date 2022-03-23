@@ -92,7 +92,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 ### Real-world challenges
 * [On Testing Machine Learning Programs](https://arxiv.org/pdf/1812.02257.pdf) by Houssem Ben Braieka, Foutse Khomh. Journal of Systems and Software 2018.
 * [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf) by Gabriel Dulac-Arnold, Daniel Mankowitz and Todd Hester. ICML 2019.
-* [MEASURING THE RELIABILITY OF REINFORCEMENT LEARNING ALGORITHMS](https://arxiv.org/pdf/1912.05663.pdf) by Stephanie C.Y. Chan, Samuel Fishman, John Canny, Anoop Korattikara and Sergio Guadarrama. ICLR 2020.
+* [An Introduction to Multi-Agent Reinforcement Learning and Review of its Application to Autonomous Mobility](https://arxiv.org/abs/2203.07676) by Lukas M. Schmidt, Johanna Brosig, Axel Plinge, Bjoern M. Eskofier and Christopher Mutschler. arXiv 2022.
 * [Evaluating the Safety of Deep Reinforcement Learning Models using Semi-Formal Verification](https://arxiv.org/pdf/2010.09387.pdf) by Davide Corsi, Enrico Marchesini and Alessandro Farinelli. arXiv 2020.
 * [Evaluating the Robustness of Collaborative Agents](https://arxiv.org/pdf/2101.05507.pdf) by Paul Knott, Micah Carroll, Sam Devlin, Kamil Ciosek, Katja Hofmann and A. D. Dragan. arXiv 2021.
 * [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf) by Gabriel Dulac-Arnold, Nir Levine, Daniel J. Mankowitz, Jerry Li, Cosmin Paduraru, Sven Gowal and Todd Heste. arXiv 2021.
