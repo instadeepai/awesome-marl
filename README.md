@@ -5,7 +5,7 @@ There has been substantial growth in the field of Multi-Agent Reinforcemnt Learn
 This is a collection of review papers for MARL and evaluation methods for RL in general. We sort papers by publication date and survey subtopic. Any additions to this repo are welcome. Although our current focus is more on evaluation, this repository aims to include all relevant subtopics related to MARL.
 
 ## Overview
-* [Survey Papers](https://github.com/siddarthsingh1/MARL-literature)
+* [Survey Papers](https://github.com/instadeepai/awesome-marl/blob/main/README.md#survey-papers)
 * [Research Papers](https://github.com/siddarthsingh1/MARL-literature)
   * [Value Factorisation](https://github.com/siddarthsingh1/MARL-literature#value-factorisation)
   * [Communication](https://github.com/siddarthsingh1/MARL-literature#communication) 
