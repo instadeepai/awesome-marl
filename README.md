@@ -11,7 +11,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
   * [Value Factorisation](https://github.com/instadeepai/awesome-marl/blob/main/README.md#value-factorisation)
   * [Communication](https://github.com/instadeepai/awesome-marl/blob/main/README.md#communication) 
   * [Evaluation for RL](https://github.com/instadeepai/awesome-marl/blob/main/README.md#evaluation-for-rl)
-  * [Evaluation for MARL](https://github.com/instadeepai/awesome-marl/blob/main/README.md#evaluation-MARL)
+  * [Evaluation for MARL](https://github.com/instadeepai/awesome-marl/blob/main/README.md#evaluation-for-marl)
   * [Implementation](https://github.com/instadeepai/awesome-marl/blob/main/README.md#implementation)
   * [Real-world challenges](https://github.com/instadeepai/awesome-marl/blob/main/README.md#real-world-challenges)
   * [Frameworks](https://github.com/instadeepai/awesome-marl/blob/main/README.md#frameworks)
