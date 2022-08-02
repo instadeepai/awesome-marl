@@ -1,0 +1,2 @@
+### Frameworks
+* [Mava: a research framework for distributed multi-agent reinforcement learning](https://arxiv.org/pdf/2107.01460.pdf) by Arnu Pretorius, Kale-ab Tessera, Andries P. Smit, Kevin Eloff, Claude Formanek, St John Grimbly, Siphelele Danisa, Lawrence Francis, Jonathan Shock, Herman Kamper, Willie Brink, Herman Engelbrecht, Alexandre Laterre and Karim Beguir. arXiv 2021.
