@@ -1,7 +1,13 @@
 ### Real-world challenges
-* [On Testing Machine Learning Programs](https://arxiv.org/pdf/1812.02257.pdf) by Houssem Ben Braieka, Foutse Khomh. Journal of Systems and Software 2018.
-* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf) by Gabriel Dulac-Arnold, Daniel Mankowitz and Todd Hester. ICML 2019.
-* [An Introduction to Multi-Agent Reinforcement Learning and Review of its Application to Autonomous Mobility](https://arxiv.org/abs/2203.07676) by Lukas M. Schmidt, Johanna Brosig, Axel Plinge, Bjoern M. Eskofier and Christopher Mutschler. arXiv 2022.
-* [Evaluating the Safety of Deep Reinforcement Learning Models using Semi-Formal Verification](https://arxiv.org/pdf/2010.09387.pdf) by Davide Corsi, Enrico Marchesini and Alessandro Farinelli. arXiv 2020.
-* [Evaluating the Robustness of Collaborative Agents](https://arxiv.org/pdf/2101.05507.pdf) by Paul Knott, Micah Carroll, Sam Devlin, Kamil Ciosek, Katja Hofmann and A. D. Dragan. arXiv 2021.
-* [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/pdf/2003.11881.pdf) by Gabriel Dulac-Arnold, Nir Levine, Daniel J. Mankowitz, Jerry Li, Cosmin Paduraru, Sven Gowal and Todd Heste. arXiv 2021.
+
+<details> <summary> <a href="https://arxiv.org/pdf/1812.02257.pdf"> On Testing Machine Learning Programs </a>by Houssem Ben Braieka, Foutse Khomh. Journal of Systems and Software 2018 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/pdf/1904.12901.pdf"> Challenges of Real-World Reinforcement Learning </a>by Gabriel Dulac-Arnold, Daniel Mankowitz and Todd Hester. ICML 2019 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/abs/2203.07676"> An Introduction to Multi-Agent Reinforcement Learning and Review of its Application to Autonomous Mobility </a>y Lukas M. Schmidt, Johanna Brosig, Axel Plinge, Bjoern M. Eskofier and Christopher Mutschler. arXiv 2022 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/pdf/2010.09387.pdf"> AEvaluating the Safety of Deep Reinforcement Learning Models using Semi-Formal Verification </a>by Davide Corsi, Enrico Marchesini and Alessandro Farinelli. arXiv 2020 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/pdf/2101.05507.pdf"> Evaluating the Robustness of Collaborative Agents </a>by Paul Knott, Micah Carroll, Sam Devlin, Kamil Ciosek, Katja Hofmann and A. D. Dragan. arXiv 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/pdf/2003.11881.pdf"> An empirical investigation of the challenges of real-world reinforcement learning </a>by Gabriel Dulac-Arnold, Nir Levine, Daniel J. Mankowitz, Jerry Li, Cosmin Paduraru, Sven Gowal and Todd Heste. arXiv 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
