@@ -1,0 +1,7 @@
+### Benchmarks
+
+<details> <summary> <a href="https://arxiv.org/pdf/1908.03568.pdf"> Behaviour Suite for Reinforcement Learning </a>by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver and Hado Van Hasselt. arXiv 2020 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://arxiv.org/abs/1902.04043"> The StarCraft Multi-Agent Challenge </a>By Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson. arXiv 2019 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
+
+<details> <summary> <a href="https://ala2021.vub.ac.be/papers/ALA2021_paper_44.pdf"> Comparative Evaluation of Cooperative Multi-Agent Deep Reinforcement Learning Algorithms </a>by Georgios Papoudakis, Filippos Christianos, Lukas Schäfer, Stefano V. Albrecht. ALA 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> [Summary] </a> </summary>  TODO: add abstract <br> - </details>
