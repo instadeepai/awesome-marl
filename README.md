@@ -12,7 +12,7 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
   * [Deep learning Surveys](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Survey%20Papers/Deep%20learning#deep-learning-surveys)
     * These surveys were done after the mass adoption of deep learning in reinforcement learning and begin in 2014...
 * [Research Papers](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers#research-papers)
-  * [Older papers]()
+  * [Older papers](https://github.com/instadeepai/awesome-marl/blob/e4f860c66f8fefb658a0db04cfdd96f89fbdd36f/Research%20Papers/Shallow%20learning/README.md)
     * These papers are before the year 2015. Typically they are publications that predate the mass adoption of the deep learning...
-  * [Deep learning papers]()
+  * [Deep learning papers](https://github.com/instadeepai/awesome-marl/blob/e4f860c66f8fefb658a0db04cfdd96f89fbdd36f/Research%20Papers/Deep%20learning/README.md)
     * These papers were published after the mass adoption of deep learning in multi-agent settings starting in 2015...
