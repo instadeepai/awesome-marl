@@ -4,21 +4,21 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 
 ## Overview
 
-* [Value Factorisation](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Value%20Factorisation#value-factorisation)
+* [Value Factorisation](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Value%20Factorisation#value-factorisation)
   * Papers following the value decomposition paradigm for MARL...
-* [Communication](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Communication#communication)
+* [Communication](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Communication#communication)
   * Papers dealing with communication in MARL...
-* [Evaluation for RL](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Evaluation%20for%20RL#evaluation-for-rl)
+* [Evaluation for RL](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Evaluation%20for%20RL#evaluation-for-rl)
   * Papers that evaluate RL algorithms...
-* [Evaluation for MARL](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Evaluation%20for%20MARL#evaluation-for-marl)
+* [Evaluation for MARL](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Evaluation%20for%20MARL#evaluation-for-marl)
   * Papers that evaluate MARL algorithms...
-* [Implementation](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Implementation%20Details#implementation)
+* [Implementation](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Implementation%20Details#implementation)
   * Papers that look into the effect of the practical manner in while MARL and RL algorithms are coded...
 * [Real-world challenges](https://github.com/instadeepai/awesome-marl/blob/main/README.md#real-world-challenges)
   * How MARL algorithms can be applied to real world settings...
-* [Frameworks](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Frameworks#frameworks)
+* [Frameworks](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Frameworks#frameworks)
   * A collection of MARL frameworks...
-* [Benchmarks](https://github.com/instadeepai/awesome-marl/tree/maintain/reformat/Research%20Papers/Benchmarks#benchmarks)
+* [Benchmarks](https://github.com/instadeepai/awesome-marl/tree/main/Research%20Papers/Benchmarks#benchmarks)
   * A collection of MARL benchmarks...
 
 ### Value Factorisation
