@@ -2,5 +2,6 @@ This is a collection of older papers on the topic of learning in multi-agent sys
 
 ## Overview
 
-* [Convergent learning](https://github.com/instadeepai/awesome-marl/blob/e4f860c66f8fefb658a0db04cfdd96f89fbdd36f/Research%20Papers/Shallow%20learning/Convergent%20learning/README.md)
-  * Papers aiming to develop learning algorithms that converge to a Nash equilibrium solution...
+### Convergent Learning
+
+* [Rational and Convergent Learning in Stochastic Games](https://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf) by Michael Bowling, Manuela Veloso. 2001.
