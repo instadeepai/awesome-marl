@@ -4,7 +4,7 @@ After 2014 and the success of DQN, there was a large shift towards Deep RL which
 
 ## Overview
 
-* [Shallow Learning](/Survey%20Papers/Shallow%20learning/README)
+* [Shallow Learning](/Survey%20Papers/Shallow%20learning/README.md)
   * The papers contained in this repo frun from the years 2000 to 2012. The shallow learning surveys primarily focus on...
-* [Deep Learning](/Survey%20Papers/Deep%20learning/README)
+* [Deep Learning](/Survey%20Papers/Deep%20learning/README.md)
   * The papers contained in this repo frun from the years 2015 to 2022. The deep learning surveys primarily focus on...

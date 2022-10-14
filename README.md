@@ -6,13 +6,13 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 
 ## Overview
 
-* [Survey Papers](/Survey%20Papers/README)
-  * [Older Surveys](/Survey%20Papers/Shallow%20learning/README)
+* [Survey Papers](/Survey%20Papers/README.md)
+  * [Older Surveys](/Survey%20Papers/Shallow%20learning/README.md)
     * These surveys contain papers up to the year 2012. Typically they are publications that predate the mass adoption of the deep learning paradigm...
-  * [Deep learning Surveys](/Survey%20Papers/Deep%20learning/README)
+  * [Deep learning Surveys](/Survey%20Papers/Deep%20learning/README.md)
     * These surveys were done after the mass adoption of deep learning in reinforcement learning and begin in 2014...
 * [Research Papers](/Research%20Papers/README.md)
-  * [Older papers](/Research%20Papers/Shallow%20learning/README)
+  * [Older papers](/Research%20Papers/Shallow%20learning/README.md)
     * These papers are before the year 2015. Typically they are publications that predate the mass adoption of the deep learning...
-  * [Deep learning papers](/Research%20Papers/Deep%20learning/README)
+  * [Deep learning papers](/Research%20Papers/Deep%20learning/README.md)
     * These papers were published after the mass adoption of deep learning in multi-agent settings starting in 2015...
