@@ -18,6 +18,8 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 
 <details> <summary> <a href="https://arxiv.org/abs/2202.04427"> Revisiting QMIX: Discriminative Credit Assignment by Gradient Entropy Regularization </a>y Jian Zhao, Yue Zhang, Xunhan Hu, Weixun Wang, Wengang Zhou, Jianye Hao, Jiangcheng Zhu and Houqiang Li. arXiv 2022 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
 
+<br/>
+
 ### Communication
 
 <details> <summary> <a href="https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf"> Multi-Agent Graph-Attention Communication and Teaming </a>by Yaru Niu, Rohan Paleja and Matthew Gombolay. ifaamas 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
@@ -38,11 +40,15 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 
 <details> <summary> <a href="https://arxiv.org/abs/2110.04495"> Multi-Agent MDP Homomorphic Networks </a>by Elise van der Pol, Herke van Hoof, Frans A. Oliehoek and Max Welling. arXiv 2021<a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
 
+<br/>
+
 ### Evaluation for MARL
 
 <details> <summary> <a href="https://arxiv.org/pdf/2006.07869.pdf"> Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks </a>by Georgios Papoudakis, Filippos Christianos,  Lukas Schäfer and Stefano V. Albrecht. NeurIPS 2021. <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
 
 <details> <summary> <a href="https://arxiv.org/pdf/2006.07869.pdf"> Scalable Evaluation of Multi-Agent Reinforcement Learning with Melting Pot </a>by Joel Z. Leibo, Edgar Du ́e ̃nez-Guzm ́an, Alexander Sasha Vezhnevets, John P. Agapiou, Peter Sunehag, Raphael Koster ,Jayd Matyas, Charles Beattie, Igor Mordatch and Thore Graepel. PMLR 2021. <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
+
+<br/>
 
 ### Implementation
 
@@ -53,6 +59,8 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 <details> <summary> <a href="https://arxiv.org/pdf/2102.03479.pdf"> RETHINKING THE IMPLEMENTATION TRICKS AND MONOTONICITY CONSTRAINT IN COOPERATIVE MULTI-AGENT REINFORCEMENT LEARNING </a>by Jian Hu, Siyang Jiang, Seth Austin Harding, Haibin Wu and Shih-wei Liao. arXiv 2022 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
 
 <details> <summary> <a href="https://arxiv.org/abs/2203.05285"> API: Boosting Multi-Agent Reinforcement Learning via Agent-Permutation-Invariant Networks </a>by Xiaotian Hao, Weixun Wang, Hangyu Mao, Yaodong Yang, Dong Li, Yan Zheng, Zhen Wang and Jianye Hao. arXiv 2022 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
+
+<br/>
 
 ### Real-world challenges
 
@@ -68,9 +76,13 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 
 <details> <summary> <a href="https://arxiv.org/pdf/2003.11881.pdf"> An empirical investigation of the challenges of real-world reinforcement learning </a>by Gabriel Dulac-Arnold, Nir Levine, Daniel J. Mankowitz, Jerry Li, Cosmin Paduraru, Sven Gowal and Todd Heste. arXiv 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
 
+<br/>
+
 ### Frameworks
 
 <details> <summary> <a href="https://arxiv.org/pdf/2107.01460.pdf"> Mava: a research framework for distributed multi-agent reinforcement learning </a>by Arnu Pretorius, Kale-ab Tessera, Andries P. Smit, Kevin Eloff, Claude Formanek, St John Grimbly, Siphelele Danisa, Lawrence Francis, Jonathan Shock, Herman Kamper, Willie Brink, Herman Engelbrecht, Alexandre Laterre and Karim Beguir. arXiv 2021. <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8">   </a> </summary>  TODO: add abstract <br> - </details>
+
+<br/>
 
 ### Benchmarks
 
@@ -79,3 +91,5 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 <details> <summary> <a href="https://arxiv.org/abs/1902.04043"> The StarCraft Multi-Agent Challenge </a>By Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson. arXiv 2019 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> </a> </summary>  TODO: add abstract <br> - </details>
 
 <details> <summary> <a href="https://ala2021.vub.ac.be/papers/ALA2021_paper_44.pdf"> Comparative Evaluation of Cooperative Multi-Agent Deep Reinforcement Learning Algorithms </a>by Georgios Papoudakis, Filippos Christianos, Lukas Schäfer, Stefano V. Albrecht. ALA 2021 <a href="https://www.Summary.so/instadeep/Multiagent-Learning-Basics-Challenges-and-Prospect-21cb7b4294b84a4188cafd184a3deed8"> </a> </summary>  TODO: add abstract <br> - </details>
+
+<br/>
