@@ -4,6 +4,7 @@ This is a collection of older papers on the topic of learning in multi-agent sys
 
 ### Convergent Learning
 
+* [Learning Mixed Equilibria](http://www.dklevine.com/archive/refs4415.pdf) by Drew Fundenberg, David M. Kreps. Journal of Games and Economic Behvaior, 1993.
 * [The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems](https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf) by Caroline Claus, Craig Boutilier. AAAI, 1998.
 [Predicting how people play games: reinforcement leaning in experimental games with unique,mixed strategy equilibria]("https://econweb.ucsd.edu/~jandreon/Econ264/papers/Erev%20Roth%20AER%201998.pdf") by Ido Erev, Alvin E. Roth. The American Economic Review, 1998.
 * [Convergence Problems of General-Sum Multiagent Reinforcement Learning](https://webdocs.cs.ualberta.ca/~bowling/papers/00icml.pdf) by Michael Bowling. ICML, 2000.
