@@ -94,3 +94,17 @@ This is a collection of older papers on the topic of learning in multi-agent sys
 <br/>
 
 <!-- <details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details> -->
+
+<details> <summary> <a href="link"> Strategy Learning with multilayer connectionist representations </a>by Anderson C.W. ICML, 1987. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> Learning to Behave Socially and Avoid the Braess Paradox In a Commuting Scenario </a>by Bazzan A. L. C., Klugl Franziska. Workshop on Evolutionary Game Theory for Learning in MAS, 2003. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> A game-theoretic approach to coordination of traffic signal agents </a>by Bazzan A. L. C. PhD thesis, 1997. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> Nash Equilibrium and Evolution by Imitation </a>by Bjornerstedt J., and Weibull, J. The Rational Foundations of Economic Behavior, 1995. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> Learning through Reinforcement and Replicator Dynamics </a>by Borgers, T., Sarin, R. Journal of Economic Theory, 1997. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> Dispersion games: general definitions and some specific learning results </a>by T. Grenager, R. Powers, Y. Shoham. AAAI, 2002. <a href="link">  </a> </summary> abstract <br>
+
+<details> <summary> <a href="link"> Engineering Multi-Agent Reinforcement Learning using Evolutionary Dynamics </a>by ’t Hoen, P.J., Tuyls, K. ECML, 2004. <a href="link">  </a> </summary> abstract <br>
