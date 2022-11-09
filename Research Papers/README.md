@@ -4,23 +4,16 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 
 ## Older papers
 
-* [Convergent learning](/Research%20Papers/Shallow%20learning/Convergent%20learning/README.md)
+* [Convergent learning](/Research%20Papers/Shallow%20learning/README.md#convergent-learning)
+* [Repeated games](/Research%20Papers/Shallow%20learning/README.md#repeated-games)
+* [Decision Theory](/Research%20Papers/Shallow%20learning/README.md#decision-theory)
 
 ## Deep learning papers
 
-* [Value Factorisation](/Research%20Papers/Deep%20learning/Value%20Factorisation/README.md)
-  * Papers following the value decomposition paradigm for MARL...
-* [Communication](/Research%20Papers/Deep%20learning/Communication/README.md)
-  * Papers dealing with communication in MARL...
-* [Evaluation for RL](/Research%20Papers/Deep%20learning/Evaluation%20for%20RL/README.md)
-  * Papers that evaluate RL algorithms...
-* [Evaluation for MARL](/Research%20Papers/Deep%20learning/Evaluation%20for%20MARL/README.md)
-  * Papers that evaluate MARL algorithms...
-* [Implementation](/Research%20Papers/Deep%20learning/Implementation%20Details/README.md)
-  * Papers that look into the effect of the practical manner in while MARL and RL algorithms are coded...
-* [Real-world challenges](/Research%20Papers/Deep%20learning/Real-world%20challenges/README.md)
-  * How MARL algorithms can be applied to real world settings...
-* [Frameworks](/Research%20Papers/Deep%20learning/Frameworks/README.md)
-  * A collection of MARL frameworks...
-* [Benchmarks](/Research%20Papers/Deep%20learning/Benchmarks/README.md)
-  * A collection of MARL benchmarks...
+* [Value Factorisation](/Research%20Papers/Deep%20learning/README.md#value-factorisation)
+* [Communication](/Research%20Papers/Deep%20learning/README.md#communication)
+* [Evaluation for MARL](/Research%20Papers/Deep%20learning/README.md#evaluation-for-marl)
+* [Implementation](/Research%20Papers/Deep%20learning/README.md#implementation)
+* [Real-world challenges](/Research%20Papers/Deep%20learning/README.md#real-world-challenges)
+* [Frameworks](/Research%20Papers/Deep%20learning/README.md#frameworks)
+* [Benchmarks](/Research%20Papers/Deep%20learning/README.md#benchmarks)
