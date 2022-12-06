@@ -18,7 +18,7 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 * [Exploration](/Research%20Papers/Shallow%20learning/README.md#exploration)
 * [Extensive Form Games](/Research%20Papers/Shallow%20learning/README.md#extensive-form-games)
 * [Fictitious Play](/Research%20Papers/Shallow%20learning/README.md#fictitious-play)
-* [Foundational Game Theory](/Research%20Papers/Shallow%20learning/README.md#foundational-game-theory)
+* [Foundational Theory](/Research%20Papers/Shallow%20learning/README.md#foundational-theory)
 * [General-Sum Games](/Research%20Papers/Shallow%20learning/README.md#general-sum-games)
 * [Hierachical Learning](/Research%20Papers/Shallow%20learning/README.md#hierachical-learning)
 * [Incomplete Information Games](/Research%20Papers/Shallow%20learning/README.md#incomplete-information-games)
