@@ -27,9 +27,10 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 * [Repeated games](/Research%20Papers/Shallow%20learning/README.md#repeated-games)
 * [Robotic Teams](/Research%20Papers/Shallow%20learning/README.md#robotic-teams)
 * [Stochastic Games](/Research%20Papers/Shallow%20learning/README.md#stochastic-games)
-* [Theoretical Frameworks](/Research%20Papers/Shallow%20learning/README.md#theoretical-frameworks)
+* [Theoretical and Conceptual Frameworks](/Research%20Papers/Shallow%20learning/README.md#theoretical-and-conceptual-frameworks)
 * [Theses](/Research%20Papers/Shallow%20learning/README.md#theses)
-* [Traffic Control](/Research%20Papers/Shallow%20learning/README.md#traffic-control)
+* [Applications](/Research%20Papers/Shallow%20learning/README.md#applications)
+* [*Misc Theory and Approaches](/Research%20Papers/Shallow%20learning/README.md#*misc-theory-and-approaches)
 
 ## Deep learning papers
 
