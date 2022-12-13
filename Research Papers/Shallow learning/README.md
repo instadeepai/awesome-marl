@@ -519,7 +519,7 @@ using Extended Optimal Response </a>by Nobuo Suematsu, Akira Hayashi. AAMAS, 200
 
 ### *Misc Theory and Approaches
 
-The papers below were found to be difficult to categorise and therefore are presented under the general "catch-all" category *miscellaneous theory and approaches*. 
+The papers below were found to be difficult to categorise and therefore are presented under the general "catch-all" category *miscellaneous theory and approaches*.
 
 <details> <summary> <a href="https://members.loria.fr/OBuffet/papiers/aamas02-2pages.pdf"> Learning to Weigh Basic Behaviors in Scalable Agents </a>by Olivier Buffet, Alain Dutech Francois, Charpillet. AAMAS, 2002. <a href="link">  </a> </summary> We are working on the use of Reinforcement Learning [RL](3) algorithms to design automatically reactive situated agents limited to only local perceptions. Unfortunately, as good RL algorithms suffer from combinatorial explosion, their use is generally limited to simple problems. As shown on the tile-world example of figure 1, we propose to overcome these difficulties by making the hypothesis, as in Brook’s subsumption architecture [1], that a complex problem can be efficiently dealt with if considered as a combination of simple problems. This short presentation gives basic ideas on RL algorithms (section 2). Then the three steps of our method are presented: how basic behaviors are learned for each basic motivation (sec. 3), how the scene is decomposed in key figures to find the basic behaviors currently involved (sec. 4), and how to combine them into a complex global behavior using learned weights (sec. 5). A few words are given on the experiments conducted on the tile-world problem (sec. 6) and precede a conclusion <br> - </details>
 
@@ -528,11 +528,3 @@ The papers below were found to be difficult to categorise and therefore are pres
 <!-- BREAK -->
 
 <!-- <details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details> -->
-
-<!-- <details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details>
-
-<details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details>
-
-<details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details>
-
-<details> <summary> <a href="link"> title </a>by authors. Conference, year. <a href="link">  </a> </summary> abstract <br> - </details> -->
