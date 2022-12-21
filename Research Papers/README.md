@@ -22,6 +22,7 @@ This is a collection of papers for Deep MARL. We sort papers by publication date
 * [General-Sum Games](/Research%20Papers/Shallow%20learning/README.md#general-sum-games)
 * [Hierachical Learning](/Research%20Papers/Shallow%20learning/README.md#hierachical-learning)
 * [Incomplete Information Games](/Research%20Papers/Shallow%20learning/README.md#incomplete-information-games)
+* [Meta-learning](/Research%20Papers/Shallow%20learning/README.md#meta-learning)
 * [No-Regret Learning](/Research%20Papers/Shallow%20learning/README.md#no-regret-learning)
 * [Opponent Modelling](/Research%20Papers/Shallow%20learning/README.md#opponent-modelling)
 * [Repeated games](/Research%20Papers/Shallow%20learning/README.md#repeated-games)
