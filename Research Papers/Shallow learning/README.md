@@ -725,7 +725,10 @@ This thesis builds a formal framework and approximate planning algorithms that e
 ### Applications
 
 #### Robotic soccer
+
 <details> <summary> <a href="https://link.springer.com/content/pdf/10.1007/3-540-45324-5_40.pdf"> Karlsruhe Brainstormers - A Reinforcement Learning approach to robotic soccer </a>by M. Riedmiller, A. Merke, D. Meier, A. Hoffmann, A. Sinner, O. Thate, and R. Ehrmann, Robot Soccer World Cup, 2000. <a href="link">  </a> </summary> Our long-term goal is to build a robot soccer team where the decision making part is based completely on Reinforcement Learning (RL) methods. The paper describes the overall approach pursued by the Karlsruhe Brainstormers simulator league team. Main parts of basic decision making are meanwhile solved using RL techniques. On the tactical level, first empirical results are presented for 2 against 2 attack situations. <br> - </details> 
+
+<details> <summary> <a href="https://www.researchgate.net/profile/Karl-Tuyls/publication/2527868_Q-learning_in_Simulated_Robotic_Soccer_Large_State_Spaces_and_Incomplete_Information/links/0c9605203e5baafe48000000/Q-learning-in-Simulated-Robotic-Soccer-Large-State-Spaces-and-Incomplete-Information.pdf"> Q-Learning in Simulated Robotic Soccer - Large State Spaces and Incomplete Information </a>by K. Tuyls, S. Maes, and B. Manderick. ICMLA, 2002. <a href="link">  </a> </summary> In this paper we show how Bayesian networks (BNs) can be used for modeling other agents in the environment. BNs are a compact representation of a joint probability distribution. More precisely we will have special attention to the problem of large state spaces and incomplete information. To test our techniques experimentally, we will consider the robotic soccer simulation. Robotic soccer clients will learn through Q-learning, a form of reinforcement learning. The long term goal of this research is to define generic techniques that allow agents to learn in large scaled multi-agent systems. <br> - </details>
 
 #### Traffic Management
 
